@@ -1,2 +1,2 @@
 # yet-another-easy-mail
-React Native email client
+React Native IMAP client
